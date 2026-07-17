@@ -43,8 +43,12 @@ Runs continuously via @reboot crontab.
 - Weekly skill_gap, auto_followup, company_scan
 - career-ops/ project with L linkedin automation
 
-## Gap Map (from 2026-07-20 audit, still unfixed)
-- **Proactive layer**: scripts/proactive/ directory does not exist. interest_model.py, proactive_researcher.py, email_intelligence.py, autonomous_personal_tasks.py, proactive_orchestrator.py — all documented in CLAUDE.md but never created
+## Gap Map
+
+### Fixed (2026-07-17)
+- **Proactive layer**: interest_model.py + proactive_orchestrator.py deployed to scripts/proactive/. Both run every 4h via scheduler. Interest model built from 3 sources (research, telegram, sessions). Orchestrator coordinates curiosity engine and pushes briefings to alerts_inbox.
+
+### Still Open
 - **commitment_executor.py**: MISSING
 - **self_correction.py**: MISSING
 - **Task queue**: no executor built
