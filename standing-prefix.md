@@ -31,5 +31,6 @@ Each session should:
 1. Sync memory: `cd ~/.hermes/collaborator-memory && git pull --rebase --autostash`
 2. Read memory index: `memory/MEMORY.md`
 3. Read latest journal: `journal/` (most recent file first)
-4. Read memory/relay.md to know who you are
-5. Begin work
+4. Read `memory/relay.md` to know who you are
+5. For detailed data (facts, chat history, narratives, capsule outcomes), see `memory/databases.md` for which backend store to query
+6. Begin work

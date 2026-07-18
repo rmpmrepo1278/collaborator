@@ -13,6 +13,13 @@
 - [seedline.md](seedline.md) — version vector → ../seedline.md
 - [ideas.md](ideas.md) — current ideas → ../ideas.md
 
+## The Homelab's Backend Stores
+- [databases.md](databases.md) — index of all 17+ DBs, what each contains, and how to query them
+
 ## How to read this memory
-One fact per file. Updated by distillation (nightly) and introspection (periodic audit).
-Loaded at session start during initialization.
+
+This repo is the **thin index layer** — human-readable context and cross-tool continuity.
+For detailed data (chat history, facts, narratives, capsule outcomes, preferences),
+query the canonical backend stores listed in [databases.md](databases.md).
+
+Loaded at session start during initialization. Sync first, then read this index.
