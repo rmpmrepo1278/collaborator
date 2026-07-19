@@ -104,3 +104,29 @@ Interests: self_hosting, ai_agents, career
   • Goodbye, and Thanks for All the Bikesheds
     https://queue.acm.org/detail.cfm?id=3818307
     (169 points on HN)
+
+## Curiosity — 20:16 UTC
+Interests: self_hosting, ai_agents, career
+
+🌱 **Adjacent to self hosting:** k3s
+  • Getting Started with K3s: A Practical Guide to Setup and Scaling
+    https://medium.com/@josephsims1/getting-started-with-k3s-a-practical-guide-to-setup-and-scaling-86769e873ad5
+🌱 **Adjacent to ai agents:** constitutional ai
+  • The Constitutional AI Project — Founding Repository
+    https://github.com/Excelsior2026/ConstitutionalAI
+🔀 **Intersection:** career × llm inference
+  • CareerBuilder® - Search Jobs Hiring Now
+    https://www.careerbuilder.com/?msockid=3c57c7e5197b6c1f1555d07e18dd6dfc
+📄 **arXiv (infrastructure):**
+  • LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget
+    http://arxiv.org/abs/2607.14952v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐19009
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12320
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6691
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
