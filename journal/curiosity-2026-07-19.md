@@ -139,3 +139,35 @@ Interests: self_hosting, ai_agents, career
   • UnifiedIR for Julia
     https://github.com/JuliaLang/julia/pull/62334
     (86 points on HN)
+
+## Curiosity — 20:30 UTC
+Interests: self_hosting, ai_agents, career
+
+🌱 **Adjacent to self hosting:** nomad
+  • How to Become a Digital Nomad: Step-by-Step Guide (2026)
+    https://nomadcareers.online/blog/how-to-become-a-digital-nomad-2026
+🌱 **Adjacent to ai agents:** multi agent systems
+  • Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps
+    https://www.microsoft.com/en-us?msockid=08fa568db33f6fa6259f4111b2676e2d
+  • Microsoft account | Sign In or Create Your Account Today – Microsoft
+    https://account.microsoft.com/account
+🔀 **Intersection:** self hosting × career
+📄 **arXiv (llm inference):**
+  • PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantiz
+    http://arxiv.org/abs/2607.16184v1
+  • A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynam
+    http://arxiv.org/abs/2607.16183v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐20225
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12485
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6697
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)
+    https://retrogamecoders.com/c64-basic-dungeon-part8/
+    (63 points on HN)
