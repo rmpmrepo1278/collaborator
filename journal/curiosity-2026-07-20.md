@@ -132,3 +132,36 @@ Interests: self_hosting, ai_agents, llm_inference
   • deepseek-ai/DeepSpec ⭐6704
     DeepSpec: a full-stack codebase for training and evaluating speculative decoding
     https://github.com/deepseek-ai/DeepSpec
+
+## Curiosity — 16:15 UTC
+Interests: self_hosting, ai_agents, llm_inference
+
+🌱 **Adjacent to self hosting:** home assistant advanced
+  • Home Assistant: Complete Getting-Started Guide (2026)
+    https://www.promptquorum.com/smart-home/home-assistant-getting-started
+  • 2026.2: Home, sweet overview - Home Assistant
+    https://www.home-assistant.io/blog/2026/02/04/release-20262/
+🔀 **Intersection:** llm inference × self hosting
+  • Large language model - Wikipedia
+    https://en.wikipedia.org/wiki/Large_language_model
+  • Large Language Model (LLM) - GeeksforGeeks
+    https://www.geeksforgeeks.org/artificial-intelligence/large-language-model-llm/
+📄 **arXiv (infrastructure):**
+  • The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infra
+    http://arxiv.org/abs/2607.16109v1
+  • Every Microsecond Matters: Achieving Near Speed-of-Light Latency in GPU Collecti
+    http://arxiv.org/abs/2607.16100v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐20765
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12624
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6712
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
+    https://news.ycombinator.com/item?id=48981136
+    (54 points on HN)
