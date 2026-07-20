@@ -62,3 +62,32 @@ Interests: self_hosting, ai_agents, llm_inference
   • deepseek-ai/DeepSpec ⭐6703
     DeepSpec: a full-stack codebase for training and evaluating speculative decoding
     https://github.com/deepseek-ai/DeepSpec
+
+## Curiosity — 11:15 UTC
+Interests: self_hosting, ai_agents, llm_inference
+
+🌱 **Adjacent to ai agents:** agent evaluation
+  • Manage agent identities in your organization - Microsoft Entra Agent ID
+    https://learn.microsoft.com/en-us/entra/agent-id/manage-agent-identities-admin
+  • Agents built by Microsoft | Microsoft Support
+    https://support.microsoft.com/en-us/Microsoft-365-Copilot/agents-built-by-microsoft
+🔀 **Intersection:** monitoring × llm inference
+  • MONITORING Synonyms: 65 Similar Words - Merriam-Webster
+    https://www.merriam-webster.com/thesaurus/monitoring
+📄 **arXiv (self hosting):**
+  • Strategic Persuasion Through Information Timeliness
+    http://arxiv.org/abs/2607.15939v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐20708
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12610
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6704
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • The EU is about to sell our most sensitive data to the US for visa-free travel
+    https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/
+    (383 points on HN)
