@@ -109,3 +109,33 @@ Interests: self_hosting, ai_agents, career
   • We want Texans to know their rights
     https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion
     (150 points on HN)
+
+## Curiosity — 20:29 UTC
+Interests: self_hosting, ai_agents, career
+
+🌱 **Adjacent to self hosting:** talos linux
+  • Cisco Talos—Threat Intelligence Research Team
+    https://www.cisco.com/site/us/en/products/security/talos/index.html
+🌱 **Adjacent to ai agents:** mcp protocol
+  • Model Context Protocol (MCP) - GeeksforGeeks
+    https://www.geeksforgeeks.org/artificial-intelligence/model-context-protocol-mcp/
+  • Model Context Protocol - Wikipedia
+    https://en.wikipedia.org/wiki/Model_Context_Protocol
+🔀 **Intersection:** self hosting × llm inference
+📄 **arXiv (ai agents):**
+  • An Exam for Active Observers
+    http://arxiv.org/abs/2607.16165v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐20225
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12484
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6697
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • UnifiedIR for Julia
+    https://github.com/JuliaLang/julia/pull/62334
+    (86 points on HN)
