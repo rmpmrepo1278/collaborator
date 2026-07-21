@@ -165,3 +165,32 @@ Interests: self_hosting, ai_agents, llm_inference
   • Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
     https://news.ycombinator.com/item?id=48981136
     (54 points on HN)
+
+## Curiosity — 20:16 UTC
+Interests: self_hosting, ai_agents, llm_inference
+
+🌱 **Adjacent to ai agents:** mcp protocol
+  • MCP (Model Context Protocol)，一篇就够了。 - 知乎
+    https://zhuanlan.zhihu.com/p/29001189476
+  • The 2026-07-28 MCP Specification: A Stateless, Extensible Future
+    https://blog.mcpservers.org/posts/mcp-spec-2026-07-28
+🔀 **Intersection:** monitoring × llm inference
+📄 **arXiv (ai agents):**
+  • Automated Discovery Has No Universally Superior Harness
+    http://arxiv.org/abs/2607.18235v1
+  • Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in
+    http://arxiv.org/abs/2607.18230v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐20898
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12662
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6712
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling
+    https://www.emergingtrajectories.com/lh/frontier-lab-economics/
+    (305 points on HN)
