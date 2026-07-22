@@ -64,3 +64,30 @@ Interests: self_hosting, ai_agents, llm_inference
   • Cornell's Interactive Wall of Birds
     https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456
     (86 points on HN)
+
+## Curiosity — 16:15 UTC
+Interests: self_hosting, ai_agents, llm_inference
+
+🌱 **Adjacent to ai agents:** multi agent systems
+  • MultiCare - Hospitals, Clinics & Urgent Care in Washington State
+    https://www.multicare.org/
+  • Multi-Agent Systems in 2026: The Complete Guide — Agent Mag
+    https://agentmag.dev/articles/rise-of-multi-agent-systems-2026
+🔀 **Intersection:** monitoring × self hosting
+📄 **arXiv (llm inference):**
+  • Provable diffusion-based posterior sampling for linear inverse problems via DDIM
+    http://arxiv.org/abs/2607.19333v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐21777
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12902
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6738
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • Nvidia DGX Spark as a daily driver
+    https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/
+    (71 points on HN)
