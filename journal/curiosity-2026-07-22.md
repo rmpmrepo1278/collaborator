@@ -91,3 +91,32 @@ Interests: self_hosting, ai_agents, llm_inference
   • Nvidia DGX Spark as a daily driver
     https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/
     (71 points on HN)
+
+## Curiosity — 20:16 UTC
+Interests: self_hosting, ai_agents, llm_inference
+
+🌱 **Adjacent to self hosting:** home assistant advanced
+  • Home Assistant 2026: The Ultimate Guide to Smart Automation
+    https://tecnoyfoto.com/en/home-assistant-2026-guide
+🔀 **Intersection:** monitoring × llm inference
+  • MONITORING | English meaning - Cambridge Dictionary
+    https://dictionary.cambridge.org/dictionary/english/monitoring
+📄 **arXiv (research):**
+  • SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Archi
+    http://arxiv.org/abs/2607.20402v1
+  • Persian Pixel: A large-scale synthetic OCR dataset for Persian language
+    http://arxiv.org/abs/2607.20385v1
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐21848
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐12935
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • deepseek-ai/DeepSpec ⭐6739
+    DeepSpec: a full-stack codebase for training and evaluating speculative decoding
+    https://github.com/deepseek-ai/DeepSpec
+🎲 **Serendipity:**
+  • John C. Dvorak has died
+    https://twitter.com/na_announce/status/2079952538040672302
+    (618 points on HN)
