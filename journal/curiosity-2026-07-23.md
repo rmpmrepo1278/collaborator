@@ -83,3 +83,27 @@ Interests: self_hosting, ai_agents, llm_inference
   • DARPA, U.S. Air Force fly AI-controlled F-16
     https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
     (153 points on HN)
+
+## Curiosity — 20:18 UTC
+Interests: self_hosting, ai_agents, llm_inference
+
+🌱 **Adjacent to self hosting:** nomad
+  • 某安卓平台3d绘图工具的简单逆向 - 吾爱破解 - 52pojie.cn
+    https://www.52pojie.cn/thread-1820367-1-1.html
+  • Digital Nomad in 2026: The Complete Guide to Working & Living Abroad
+    https://hellosafe.com/digital-nomad
+🔀 **Intersection:** llm inference × ai agents
+⭐ **Trending on GitHub:**
+  • xai-org/grok-build ⭐22134
+    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+    https://github.com/xai-org/grok-build
+  • langchain-ai/openwiki ⭐13060
+    OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+    https://github.com/langchain-ai/openwiki
+  • unicity-aos/aos-ce ⭐6899
+    AOS Community Edition: the open agent operating system.
+    https://github.com/unicity-aos/aos-ce
+🎲 **Serendipity:**
+  • AI Companies Are Trying to Hide a Staggering Amount of Debt
+    https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet
+    (620 points on HN)
